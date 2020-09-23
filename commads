@@ -1,0 +1,6 @@
+// using express-generator with npx
+$ npx express-generator --view=hbs
+
+// using express-generator, installing globally
+$ npm install express-generator -g
+$ express --view=hbs
